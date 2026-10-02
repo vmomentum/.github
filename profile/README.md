@@ -22,7 +22,7 @@ Estudio de producto digital. Llevamos ideas de negocio a apps reales, instalable
 
 | Proyecto | Qué es | En vivo |
 |---|---|---|
-| _Próximamente_ | | |
+| **Eternime** | Tu segunda memoria: memoria personal con IA (Eon), voz y EON TRUST MCP para llevar tu memoria a cualquier IA | [eternime.org](https://eternime.org) |
 
 ---
 
